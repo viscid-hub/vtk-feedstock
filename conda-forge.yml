@@ -1,0 +1,9 @@
+channels:
+  targets:
+  - [viscid-hub, main]
+travis:
+  secure:
+    BINSTAR_TOKEN: ehby0IqEDAa0V6U7m7jGF6Rvb8bf8M+3ckwMsgE4WFqdTgnycOIlzPWsUb6Am95+/Ek1dEznzBLJ++th02VtOt4yfUwCpwjn0ddR7TSV/gmVrrgGy+sT29cTY2+zlPl3xoGffINHkN089GX/aA6viqZYxFCJT3fIwpaymZ15HGFjv3DUHat17sxajY+dkhDnvc8214Inicc9VHSBvJn07x2gU75WIG5047Ue8D4gNRsOWoI94hXl6IFcAnFzUz/m0sNb+gdo2UrY1+qsaqACIOinRVschCMAC5tN6uHDIXDyhkVuO+bYPoo7ieycmNB7sbTkwKTPbuG0cwTXvCzH5rM7mP8HWQ+MDV5HCWSTBowP4gnXY4d7D0dd/mRG8KZ5gHC2oQwx9a+w153z/g6JJWY23YXyCKS2x3vkeGuw/Ne9V77B8zOGS+qoYymsdg54//nHmoafGWz1WCMVgEXxpg3n16W5XRQ0tk0UNW43K8DIxF1BsJgl+WBcVFuvrdr4ER6DkVEZZbjVGrIeQw8m3fQXUyoH1WNxVmSfAyv9bxKcgkntSnMyJoYcUK6LcQtgJCS+PL4qtD08wVxiIeovekGqvM6oWP2BFDyxfwAnRpAA5/NpRKP6WWroASZdqy+1AT+paipzvEoi03rrxlY1xSVrdJPHw7zj/hbK2c5tw5I=
+appveyor:
+  secure:
+    BINSTAR_TOKEN: 9O82YEDOL2SqS1j6GkDUQSmIVgF8OhykUw5LfD9c6zZgHfswA6L3Kfmup+h/JcAB
