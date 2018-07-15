@@ -3,7 +3,7 @@ package:
   version: "8.1.1"
 
 build:
-  number: 0
+  number: 1
   skip: True  # [(win and py27)]
 
 requirements:
