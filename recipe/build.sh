@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python -m pip install -v -v -v -i https://pypi.org/simple vtk=="${PKG_VERSION}"
+python -m pip install -v --isolated vtk=="${PKG_VERSION}"
