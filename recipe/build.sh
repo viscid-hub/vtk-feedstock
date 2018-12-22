@@ -1,4 +1,3 @@
 #!/bin/bash
 
-python -m pip install requests
-python -m pip install vtk=="${PKG_VERSION}"
+python -m pip install -v vtk=="${PKG_VERSION}"
