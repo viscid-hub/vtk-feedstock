@@ -1,5 +1,5 @@
 #!/bin/bash
 
-curl https://bootstrap.pypa.io/get-pip.py | python
+conda update pip
 
 pip install vtk=="${PKG_VERSION}"
