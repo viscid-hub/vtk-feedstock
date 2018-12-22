@@ -1,5 +1,4 @@
 #!/bin/bash
 
-conda update pip
-
-pip install vtk=="${PKG_VERSION}"
+python -m pip install --upgrade pip
+python -m pip install vtk=="${PKG_VERSION}"
